@@ -1,0 +1,2 @@
+# maginahoho.github.io
+hexo
